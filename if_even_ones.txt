@@ -1,0 +1,6 @@
+init 1 1 R check_odd
+init 0 0 R init
+init _ _ * halt_even
+check_odd 1 1 R init
+check_odd 0 0 R check_odd
+check_odd _ _ * halt_odd
