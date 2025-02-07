@@ -17,3 +17,4 @@ For exammple running program:
 python3 turing.py 1101 increment.txt
 ```
 and results of this run
+<img src="images/increment_example.png" alt="ddd" width="800" height="400">
