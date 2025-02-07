@@ -17,4 +17,5 @@ For exammple running program:
 python3 turing.py 1101 increment.txt
 ```
 #### and results of this run
+<div style="text-align: center;">
 <img src="images/increment_example.png" width="146" height="309">
