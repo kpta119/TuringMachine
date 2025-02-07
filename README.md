@@ -16,5 +16,5 @@ For exammple running program:
 ```bash
 python3 turing.py 1101 increment.txt
 ```
-and results of this run
-<img src="images/increment_example.png" alt="ddd" width="800" height="400">
+#### and results of this run
+<img src="images/increment_example.png" width="146" height="309">
